@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func Main() {
 	test := 7
 	fmt.Println(generate(test))
 }
