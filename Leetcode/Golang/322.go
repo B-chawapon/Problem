@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func Main() {
 	data2 := []int{1, 2, 5}
 	test := 10
 	fmt.Println(coinChange(data2, test))
