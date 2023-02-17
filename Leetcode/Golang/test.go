@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Main() {
 	employees := []string{"John", "Mary", "Bob"}
 
 	// for i, employee := range employees {
